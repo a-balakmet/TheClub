@@ -1,0 +1,185 @@
+<resources>
+    <string name="app_name">The Club</string>
+    <string name="google_maps_key" translatable="false">some google key</string>
+    <!--start-->
+    <string name="language_selection">Выбор языка</string>
+    <string name="setup_app_language">Установите язык интерфейса приложения</string>
+    <string name="registration">Регистрация</string>
+    <string name="login">Вход</string>
+    <!--common-->
+    <string name="russian">Русский</string>
+    <string name="kazakh">Қазақша</string>
+    <string name="ok">OK</string>
+    <string name="no_internet_connection">Проблемы с интернетом</string>
+    <string name="no_internet_connection_short">Нет соединения</string>
+    <string name="loading">Загрузка…</string>
+    <string name="tenge_symbol" translatable="false">\u20B8</string>
+    <string name="no_data">Нет данных</string>
+    <string name="data_exchange">Обмен данными</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="ready">Готово</string>
+    <string name="cancel">Отмена</string>
+    <string-array name="months_relative">
+        <item>января</item>
+        <item>февраля</item>
+        <item>марта</item>
+        <item>апреля</item>
+        <item>мая</item>
+        <item>июня</item>
+        <item>июля</item>
+        <item>августа</item>
+        <item>сентября</item>
+        <item>октября</item>
+        <item>ноября</item>
+        <item>декабря</item>
+    </string-array>
+    <string name="pieces">шт.</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <!--phone-->
+    <string name="enter_your_number">Введите ваш номер</string>
+    <string name="number_confirmation_description">На указанный номер телефона придет код подтверждения</string>
+    <!--otp-->
+    <string name="otp_title">Введите код подтверждения</string>
+    <string name="number_to_send">SMS код был отправлен на номер %s</string>
+    <string name="registration_error">Произошла ошибка, попробуйте повторить регистрацию</string>
+    <!--registration-->
+    <string name="enter_card_number">Введите номер имеющейся карты</string>
+    <string name="read_agreement">Читать условия соглашения</string>
+    <!--card creation-->
+    <string name="or">или</string>
+    <string name="create_new">Создать новую</string>
+    <string name="issue_card">Моментально выпустим Вам\nновую карту!</string>
+    <string name="your_card_is_ready">Ваша карта готова к использованию</string>
+    <string name="scan_for_getting_bonuses">Отсканируйте ее на кассе, чтобы получить бонусы!</string>
+    <string name="fill_profile">Заполните анкету!</string>
+    <string name="fill_profile_descr">Для того, чтобы использовать накапливаемые бонусы, необходимо заполнить анкетные данные</string>
+    <string name="card_not_found">Карта не найдена.</string>
+    <string name="card_already_registered">Карта уже зарегистрирована.</string>
+    <string name="fill">Заполнить</string>
+    <string name="later">Позже</string>
+    <!--pin screen-->
+    <string name="input_pin_code">Введите код доступа</string>
+    <string name="repeat_pin1">Повторите PIN-код</string>
+    <string name="repeat_pin2">Повторите PIN-код</string>
+    <string name="wrong_pin_repeat">Коды досупа не сопадают</string>
+    <string name="create_pin">Придумайте код быстрого доступа</string>
+    <string name="wrong_pin">Введен неверный код</string>
+    <string name="forget_pin_code">Забыли код доступа?</string>
+    <string name="login_put_finger_scanner">Приложите палец к сканеру</string>
+    <string name="wrong_finger">Отпечаток не распознан</string>
+    <!--profile-->
+    <string name="fill_profile_title">Заполните анкету</string>
+    <string name="fill_profile_descr_title">Это необходимо для того, чтобы вы смогли использовать накапливаемые бонусы.</string>
+    <string name="birth_date">Дата рождения</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="email">Электронный адрес</string>
+    <string name="edit_profile">Редактировать данные</string>
+    <string name="my_profile_title">Мой профиль</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="name_rule">Можно использовать только буквы, пробелы и дефисы</string>
+    <string name="name_required">Необходимо указать имя</string>
+    <string name="surname_required">Необходимо указать фамилию</string>
+    <string name="rule_for_birthday">Участвовать в Программе можно с 14 лет</string>
+    <string name="wrong_mail">Некорректно набран адрес электронной почты</string>
+    <string name="sex">Пол</string>
+    <string name="male">Мужчина</string>
+    <string name="female">Женщина</string>
+    <string name="choose_sex">Выберите пол</string>
+    <string name="profile_updated">Профиль обновлен</string>
+    <!--main screen-->
+    <string name="main_title">Главная</string>
+    <string name="my_bonuses_capital">МОИ БОНУСЫ</string>
+    <string name="card_active">Активна</string>
+    <string name="card_blocked">Заблокировано</string>
+    <string name="get_bonuses">Получайте бонусы\nза покупки!</string>
+    <string name="price_check">Проверка\nцен</string>
+    <string name="feedback">Народный\nконтроль</string>
+    <string name="transactions">Мои\nпокупки</string>
+    <string name="shops_addresses">Адреса\nмагазинов</string>
+    <string name="go_to_profile">Перейти в профиль</string>
+    <string name="exit">Выйти</string>
+    <string name="hi_there">Привет</string>
+    <!--promo-->
+    <string name="promo_actions_title">Акции и промо</string>
+    <string name="promo_till_title_text">До конца акции осталось:</string>
+    <string name="promo_date_range">Период акции: %s - %s</string>
+    <string name="promo_to_do">Что делать:</string>
+    <!--<string name="promo_document">Скачать документ по данной акции</string>-->
+    <string name="promo_document">Узнать больше</string>
+    <!--clubs-->
+    <string name="clubs_title">Клубы</string>
+    <string name="club_details">Условия клуба</string>
+    <string name="club_rules">Нажимая на кнопку “Вступить в клуб”, вы соглашаетесь с &lt;u&gt;Правилами участия&lt;/u&gt; в клубе.</string>
+    <string name="enter_club">Вступить в клуб</string>
+    <string name="exit_club">Выйти из клуба</string>
+    <string name="years_twenty_one">Вам исполнился 21 год?</string>
+    <string name="ask_exit_club">Вы уверены, что хотите выйти из клуба?</string>
+    <!--map and addresses-->
+    <string name="switch_gps">Включить геолокацию?</string>
+    <string name="location_disabled">Нет разрешения на получение геоданных.\nОткрыть разрешения?</string>
+    <string name="look_on_map">Смотреть на карте</string>
+    <string name="address">Адрес:</string>
+    <string name="working_hours">Режим работы:</string>
+    <string name="untilClosing">До закрытия: %d ч. %d мин.</string>
+    <!--price check-->
+    <string name="price_check_title">Проверка цен</string>
+    <string name="camera_disabled">Нет разрешения к камере телефона.\nОткрыть разрешения?</string>
+    <string name="your_location">Ваше местоположение</string>
+    <string name="scan_barcode">Наведите сканер на штрих-код товара.\nСканирование начнется автоматически.</string>
+    <string name="scan_qr">Наведите сканер на QR-код магазина, расположенный в торговом зале.</string>
+    <string name="product_name">Наименование товара</string>
+    <string name="no_product">Товар не найден</string>
+    <string name="nearest_shops">Адреса ближайших магазинов</string>
+    <string name="no_shop_in_list">В списке нет моего магазина</string>
+    <!--feedback-->
+    <string name="feedback_title">Народный контроль</string>
+    <!--transactions-->
+    <string name="transactions_title">Мои покупки</string>
+    <string name="transaction">Транзакции</string>
+    <string name="burning">Сгорание</string>
+    <string name="burning_bonus">Сгорание бонусов</string>
+    <string name="my_bonuses">Мои бонусы:</string>
+    <string name="burning_term">Срок жизни начисленных бонусов по базовому 1% равен 1 году с момента начисления.\n</string>
+    <string name="burning_term_second">Срок жизни "Акционных бонусов" определяется дополнительно и указывается в условиях каждой Акции. Если же срок не указан - он также равен 1 году.\n</string>
+    <string name="burning_term_third">При 100 дней неактивности в Программе лояльности (не совершались покупки) все накопленные бонусы сгорают полностью.\n</string>
+    <string name="burning_term_fourth">Сгорание бонусов осуществляется порционно в соответствии с «Графиком ближайших сгораний» указанным ниже.</string>
+    <string name="burn_schedule">График ближайших сгораний</string>
+    <string name="charged">Начислено бонусов:</string>
+    <string name="withdrawn">Списано бонусов:</string>
+    <string name="burned">Сгорело:</string>
+    <string name="purchase_sum">Покупка:</string>
+    <string name="checkAmount">Покупка на %d \u20B8</string>
+    <string name="return_sum">Возврат:</string>
+    <string name="receipt_details">Детализация чека</string>
+    <string name="receipt_content">Состав чека</string>
+    <string name="win_chance">Шанс на выигрыш</string>
+    <!--market addresses-->
+    <string name="shops_addresses_title">Адреса магазинов</string>
+    <!--notifications-->
+    <string name="notifications_title">Уведомления</string>
+    <string name="in_details">Подробнее</string>
+    <!--surveys-->
+    <string name="questionnaire_title">Опросник</string>
+    <string name="validity_date">Период действия: </string>
+    <string name="thanks_for_survey">Спасибо за пройденный опрос!</string>
+    <string name="error">Ошибка:</string>
+    <string name="repeat">Поторить?</string>
+    <!--settings-->
+    <string name="settings">Настройки</string>
+    <string name="logout">Выйти из учетной записи?</string>
+    <string name="block_card_description">В любой момент вы сможете \nразблокировать свою карту</string>
+    <string name="fingerprint_auth">Авторизация по отпечатку</string>
+    <string name="fingerprint_auth_desc">Данная функция поможет\nповысить безопасность</string>
+    <string name="pin_authorization">Авторизация через PIN</string>
+    <string name="pin_change">Изменить PIN</string>
+    <string name="locale">Язык интерфейса</string>
+    <string name="block_card">Заблокировать карту</string>
+    <string name="to_block">Заблокировать</string>
+    <string name="card_is_blocked">Карта заблокирована</string>
+    <string name="card_is_unblocked">Карта активирована</string>
+    <string name="block_card_title">Блокировка карты</string>
+    <string name="ask_block_card">Вы собираетесь заблокировать\nбонусную карту. Вы уверены?</string>
+
+</resources>

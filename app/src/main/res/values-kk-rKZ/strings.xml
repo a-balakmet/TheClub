@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Club</string>
+    <!--start-->
+    <string name="language_selection">Тіл таңдау</string>
+    <string name="setup_app_language">Интерфейс тілін таңдаңыз</string>
+    <string name="registration">Тіркеу</string>
+    <string name="login">Кіру</string>
+    <!--common-->
+    <string name="russian">Русский</string>
+    <string name="kazakh">Қазақша</string>
+    <string name="ok">OK</string>
+    <string name="no_internet_connection">Интернет қосылу барысындағы мәселелер</string>
+    <string name="no_internet_connection_short">Байланыс жоқ</string>
+    <string name="loading">Жүктеу…</string>
+    <string name="no_data">Мәлімет жоқ</string>
+    <string name="data_exchange">Деректер алмасу</string>
+    <string name="confirm">Растау</string>
+    <string name="ready">Дайын</string>
+    <string name="cancel">Кері қайтару</string>
+    <string-array name="months_relative">
+        <item>қаңтар</item>
+        <item>ақпан</item>
+        <item>наурыз</item>
+        <item>Сәуір</item>
+        <item>мамыр</item>
+        <item>маусым</item>
+        <item>шілде</item>
+        <item>тамыз</item>
+        <item>қыркүйек</item>
+        <item>қазан</item>
+        <item>қараша</item>
+        <item>желтоқсан</item>
+    </string-array>
+    <string name="pieces">дана</string>
+    <string name="yes">Иә</string>
+    <string name="no">Жоқ</string>
+    <!--phone-->
+    <string name="enter_your_number">Телефон нөміріңізді енгізіңіз</string>
+    <string name="number_confirmation_description">Көрсетілген телефон нөміріне растау коды жіберіледі</string> <!--!!-->
+    <!--otp-->
+    <string name="otp_title">Растау кодын енгізіңіз</string>
+    <string name="number_to_send">SMS коды %s нөміріне жіберілді</string>
+    <string name="registration_error">Қателік шықты, тіркеуді қайта жасап көріңіз</string>
+    <!--registration-->
+    <string name="enter_card_number">Бар картаңыздың нөмірін енгізіңіз</string>
+    <string name="read_agreement">Келісім шарттарын оқу</string>
+    <!--card creation-->
+    <string name="or">немесе</string>
+    <string name="create_new">Жаңа карта ашу</string>
+    <string name="issue_card">Сізге жаңа картаны лезде\nшығарып береміз!</string>
+    <string name="your_card_is_ready">Сіздің картаңыз қолданылуға дайын</string>
+    <string name="scan_for_getting_bonuses">Бонустарды алу үшін кассада көрсетіңіз!</string>
+    <string name="fill_profile">Анкетаны толтырыңыз!</string>
+    <string name="fill_profile_descr">Жинақталған бонустарды пайдалану үшін сауалнамалық деректерді толтырыңыз</string>
+    <string name="card_not_found">Карта табылмады.</string>
+    <string name="card_already_registered">Карта әлдеқашан тіркелген.</string>
+    <string name="fill">Толтыру</string>
+    <string name="later">Кейінірек</string>
+    <!--pin screen-->
+    <string name="input_pin_code">Рұқсат кодын енгізіңіз</string>
+    <string name="repeat_pin1">PIN-кодты қайта енгізіңіз</string>
+    <string name="repeat_pin2">PIN-кодты қайта енгізіңіз</string>
+    <string name="wrong_pin_repeat">Кіру кодтары сәйкес келмейді</string>
+    <string name="create_pin">Тез қолжеткізу кодын ойлап табыңыз</string>
+    <string name="wrong_pin">Жарамсыз код енгізілді</string>
+    <string name="forget_pin_code">Рұқсат кодын ұмыттыңыз ба?</string>
+    <string name="login_put_finger_scanner">Саусағыңызды сканнерге қойыңыз</string>
+    <string name="wrong_finger">Саусағыңызды ізін танылмады</string>
+    <!--profile-->
+    <string name="fill_profile_title">Анкетаны толтырыңыз</string>
+    <string name="fill_profile_descr_title">Жиналған бонустарыңызды пайдалану үшін қажет</string>
+    <string name="birth_date">Туған күні</string>
+    <string name="phone_number">Телефон нөмірі</string>
+    <string name="email">Электрондық пошта</string>
+    <string name="edit_profile">Мәліметтерді өзгерту</string>
+    <string name="my_profile_title">Менің бейінім</string>
+    <string name="name">Есіміңіз</string>
+    <string name="surname">Тегіңіз</string>
+    <string name="name_rule">Тек әріптерді, бос орындарды және сызықшаларды пайдалануға болады</string>
+    <string name="name_required">Атыңызды көрсету қажет</string>
+    <string name="surname_required">Тегіңізді көрсету қажет</string>
+    <string name="rule_for_birthday">Тек 14 жасқа толғандар Бейілділік бағдарламасының мүшесі бола алады</string>
+    <string name="wrong_mail">Электрондық пошта мекенжайы қате терілген</string>
+    <string name="sex">Жынысы</string>
+    <string name="male">Еркек</string>
+    <string name="female">Әйел</string>
+    <string name="choose_sex">Жынысты таңдаңыз</string>
+    <string name="profile_updated">Бейін жаңартылды</string>
+    <!--main-->
+    <string name="main_title">Негізгі бет</string>
+    <string name="my_bonuses_capital">МЕНІҢ\nБОНУСТАРЫМ</string>
+    <string name="card_active">Белсенді</string>
+    <string name="card_blocked">Бұғаттаулы</string>
+    <string name="get_bonuses">Сатып алу арқылы\nбонустар жинаңыз!</string>
+    <string name="price_check">Бағаны\nтексеру</string>
+    <string name="feedback">Халықтық\nбақылау</string>
+    <string name="transactions">Менің сатып\nалуларым</string>
+    <string name="shops_addresses">Дүкендер\nмекенжайы</string>
+    <string name="go_to_profile">Бейінге көшу</string>
+    <string name="exit">Шығу</string>
+    <string name="hi_there">Сәлем</string>
+    <!--promo-->
+    <string name="promo_actions_title">Науқандар мен промо</string>
+    <string name="promo_till_title_text">Науқан аяқталғанға дейін:</string>
+    <string name="promo_date_range">Науқан өткізілу уақыты: %s - %s</string>
+    <string name="promo_to_do">Науқанға қатысу шарттары</string>
+    <!--<string name="promo_document">Акция бойынша құжатты жүктеп алу</string>-->
+    <string name="promo_document">Толығырақ ақпарат</string>
+    <!--clubs-->
+    <string name="clubs_title">Клубтар</string>
+    <string name="club_details">Клуб шарттары</string>
+    <string name="club_rules">«Клубқа қосылу» түймесін басу арқылы сіз Клубтың &lt;u&gt;мүшелік ережелерімен&lt;/u&gt; келісесіз.</string>
+    <string name="enter_club">Клубқа қосылыңыз</string>
+    <string name="exit_club">Клубтан шығу</string>
+    <string name="years_twenty_one">Сіз 21 жастасыз ба?</string>
+    <string name="ask_exit_club">Клубтан шығыңыз келетініне сенімдісіз бе?</string>
+    <!--map and addresses-->
+    <string name="switch_gps">Геолокация қосу керек пе?</string>
+    <string name="location_disabled">Геодеректерді алуға рұқсат жоқ\Рұқсаттарды ашу керек пе?</string>
+    <string name="look_on_map">Картада көру</string>
+    <string name="address">Мекен-жай:</string>
+    <string name="working_hours">Жұмыс тәртібі:</string>
+    <string name="untilClosing">Жабылуға дейін: %d с. %d мин.</string>
+    <!--price check-->
+    <string name="price_check_title">Бағаны тексеру</string>
+    <string name="camera_disabled">Телефон камерасына рұқсат жоқ.\nРұқсаттарды ашу керек пе?</string>
+    <string name="your_location">Сіздің орналасқан жеріңіз</string>
+    <string name="scan_barcode">Сканерді тауардың штрих-кодына бағыттаңыз. Сканерлеу автоматты түрде басталады.</string>
+    <string name="scan_qr">Сканерді сауда залында орналасқан дүкеннің QR-кодына бағыттаңыз.</string>
+    <string name="product_name">Тауардың атауы</string>
+    <string name="no_product">Өнім табылмады</string>
+    <string name="nearest_shops">Жақын дүкендердің мекенжайлары</string>
+    <string name="no_shop_in_list">Менің дүкенім тізімде жоқ</string>
+    <!--feedback-->
+    <string name="feedback_title">Халықтық бақылау</string>
+    <!--transactions-->
+    <string name="transactions_title">Менің сатып алуларым</string>
+    <string name="transaction">Транзакциялар</string>
+    <string name="burning">Күйу</string>
+    <string name="burning_bonus">Бонустардың күйуі</string>
+    <string name="my_bonuses">Менің \u00A0 бонустарым</string>
+    <string name="burning_term">Базалық 1% бойынша есептелген бонустардың жарамдылық мерзімі есептелген мезеттен бастап 1 жылға тең.\n</string>
+    <string name="burning_term_second">"Науқандық бонустардың" жарамдылық мерзімі қосымша белгіленеді және әр Науқанның талаптарында атап көрсетіледі. Мерзімі көрсетілмесе, ол да 1 жылға тең болады.\n</string>
+    <string name="burning_term_third">Бейілділік бағдарламасында 100 күн белсенділік болмаған (сауда жасалмаған) жағдайда, барлық жинақталған бонустар толығымен күйіп кетеді.\n</string>
+    <string name="burning_term_fourth">Бонустардың күйуі төменде көрсетілген «Жақын арадағы күюлер кестесіне» сәйкес бөліктермен жүзеге асады.</string>
+    <string name="burn_schedule">Күйу кестесі</string>
+    <string name="charged">Бонустар есептелді:</string>
+    <string name="withdrawn">Есептен шығарылды:</string>
+    <string name="burned">Өртеніп кеткен:</string>
+    <string name="purchase_sum">Сатып алу:</string>
+    <string name="checkAmount">Сауда сомасы %d \u20B8</string>
+    <string name="return_sum">Қайтару:</string>
+    <string name="receipt_details">Чекті нақтылау</string>
+    <string name="receipt_content">Чек құрамы</string>
+    <string name="win_chance">Жеңіске жету мүмкіндігі</string>
+    <!--shops addresses-->
+    <string name="shops_addresses_title">Дүкендер мекенжайы</string>
+    <!--notifications-->
+    <string name="notifications_title">Хабарландыру</string>
+    <string name="in_details">Толығырақ</string>
+    <!--surveys-->
+    <string name="questionnaire_title">Сауалнама</string>
+    <string name="validity_date">Қолданылу мерзімі: </string>
+    <string name="thanks_for_survey">Сауалнаманы толтырғаныңызға рахмет!</string>
+    <string name="error">Қате:</string>
+    <string name="repeat">Қайталау?</string>
+    <!--settings-->
+    <string name="settings">Баптаулар</string>
+    <string name="logout">Тіркеулік жазбадан шыққыңыз келеді ме?</string>
+    <string name="block_card_description">Картаңызды кез-келген уақытта \nбұғаттан шығара аласыз</string>
+    <string name="fingerprint_auth">Саусақ ізі арқылы авторизация</string>
+    <string name="fingerprint_auth_desc">Бұл атқарым қауіпсіздікті\nарттыруға көмектеседі</string>
+    <string name="pin_authorization">PIN коды арқылы авторизация</string>
+    <string name="pin_change">PIN өзгерту</string>
+    <string name="locale">Интерфейс тілі</string>
+    <string name="block_card">Картаны бұғаттау</string>
+    <string name="to_block">Бұғаттау</string>
+    <string name="card_is_blocked">Карта бұғатталды</string>
+    <string name="card_is_unblocked">Карта іске қосылды</string>
+    <string name="block_card_title">Картаны бұғаттау</string>
+    <string name="ask_block_card">Сіз бонустық картаны бұғаттайын\nдеп жатырсыз. Сіз сенімдісіз бе?</string>
+
+</resources>
